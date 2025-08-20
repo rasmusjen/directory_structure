@@ -18,14 +18,12 @@ def load_config():
     
     return config
 
-def list_directory_contents(path):
-    for root, dirs, files in os.walk(path):
-        level = root.replace(path, '').count(os.sep)
-        indent = ' ' * 4 * level
-        print(f'{indent}{os.path.basename(root)}/')
-        sub_indent = ' ' * 4 * (level + 1)
-        for f in files:
-            print(f'{sub_indent}{f}')
+def list_directory_contents(path, output_file):
+    with open(output_file, 'w') as f:
+        for root, dirs, files in os.walk(path):
+            level = root.replace(path, '').count(os.sep)
+            indent = ' ' * 4 * level
+            f.write(f'{indent}{os.path.basename(root)}/\n')
 
 if __name__ == "__main__":
     try:
@@ -35,8 +33,14 @@ if __name__ == "__main__":
         # Get the parent directory from the config file
         parent_dir = config['Directories']['parent_dir']
         
-        # List directory contents
-        list_directory_contents(parent_dir)
+        # Get the directory of the current script to save output file
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        output_file = os.path.join(script_dir, 'directory_structure.txt')
+        
+        # List directory contents to file
+        list_directory_contents(parent_dir, output_file)
+        
+        print(f"Directory structure saved to: {output_file}")
         
     except KeyError as e:
         print(f"Configuration error: {e}")

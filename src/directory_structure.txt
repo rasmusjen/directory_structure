@@ -1,0 +1,2483 @@
+/
+Administration/
+    20230328/
+    Barsel_2024/
+    ICOS_ZAC_MANAGER_applicatiaon2024/
+    KU/
+    Time_registration/
+Archive/
+    Carbon_modeling_training course/
+        Appendixes/
+        CarboTrain2022/
+            CarboTrain/
+                .idea/
+                    inspectionProfiles/
+                Source_code/
+                    code_figures_xia13GCB/
+                        .vscode/
+                        dataSources/
+                        output_figs/
+                    proda/
+                        input_data/
+                        src_clm_cen/
+                        Task_DA_Only/
+                            output_data/
+                    soil_mapping_practice/
+                        input_data/
+                        output_data/
+                        scripts/
+                        __MACOSX/
+                            input_data/
+                            output_data/
+                            scripts/
+                    TECO_2.3/
+                        .vs/
+                            TECO_2.3/
+                                v16/
+                        annotations in TECO model/
+                        input/
+                        output/
+                        workshop_nml/
+                    Traceme_offline/
+                        .vscode/
+                        data/
+                            CESM2/
+                            CNRM-ESM2-1/
+                            IPSL-CM6A-LR/
+                        R_docs/
+                        Traceme_offline/
+                            results/
+                                figures/
+                                nc-files/
+                                R_data/
+                                    spatial/
+                                    temporal/
+                            R_docs/
+                    unit_2/
+                        .vscode/
+                        __pycache__/
+                    unit_3/
+                        .vscode/
+                        __pycache__/
+                    unit_4/
+                        .vscode/
+                        __pycache__/
+                    unit_6/
+                        .idea/
+                        .vscode/
+                        Examples/
+                            Ambient CO2/
+                                figures/
+                                output/
+                            Elevated CO2/
+                                figures/
+                                output/
+                            newPirorParameterRange/
+                                figures/
+                                output/
+                        figures/
+                        input/
+                        output/
+                            practice_1_ambient/
+                                figures/
+                            practice_1_elevated/
+                                figures/
+                            practice_2_ambient/
+                                figures/
+                __pycache__/
+        Unit10_Website/
+        Unit1_Website/
+        Unit2_Website/
+        Unit3_Website/
+        Unit4_Website/
+        Unit5_Website/
+        Unit6_Website/
+        Unit7_Website/
+        Unit8_Website/
+        Unit9_Website/
+    KU_H_drive/
+        Administration/
+            Ansættelse IGG/
+                Extension/
+                Half-year reports/
+                Phd progres report sep 2013/
+            Arbejdstid/
+            Barsel/
+            Courses/
+                LICOR Uppsala/
+            ICOS/
+                Employment_student_assistants/
+                    Andreas/
+                    Emil/
+                    Svend/
+                New folder/
+            PhD_admission/
+            PhD_plan/
+                Final plan/
+            Travel/
+                AGU2012/
+                Amble_QuestUAV/
+                Bonn_march_2013/
+                Flux course Poland/
+                Saudi/
+                    KAUST_HPC/
+                Sommerkursus2013/
+            Økonomi/
+                Bills/
+                    Summer2014/
+                HOBE bilag/
+                Regnskab/
+        Courses/
+            Applied Statistics/
+                Module0/
+                Module1/
+                    Activities/
+                        1.1/
+                            R scripts/
+                        1.2/
+                            R_script/
+                    Lectures/
+                Module2/
+                    A2.1/
+                        Bos_solution/
+                    A2.2/
+                    Lecture/
+                Module3/
+                    A3.1/
+                    A3.2/
+                Module4/
+                    A4.2/
+                    A41/
+                    Lectures/
+                Module5/
+                    A5.1/
+                    A5.2/
+                    Lecture/
+                        L5.3/
+            Flux summer course Poland 2013/
+                Flux_course_Poland/
+                    Chamber data_Radek/
+                    E5/
+                    Flux post-processingDario/
+                        cost/
+                        COST_pract_2013/
+                    Meelis_ProfileMethod/
+                        SUMMER SCHOOL/
+                    Modeling/
+                    N2Oexercise_Lutz_Merbold/
+                    Ozone/
+                        EddyPro-4.1.0/
+                            bin/
+                            docs/
+                                help/
+                                    Data/
+                                    GeneratedImages/
+                                        Equations/
+                                    Resources/
+                                        Images/
+                                        Scripts/
+                                        Stylesheets/
+                                    Skins/
+                                        Default/
+                                            Stylesheets/
+                                                Images/
+                            iconengines/
+                            imageformats/
+                        Using Licor EDDYPRO for ozone/
+                            2013-02-20/
+                    PLUMES/
+            IUP/
+                EcoClim/
+            LICOR course_Risoe/
+                Slides/
+            LICOR eddy covariance course Uppsala/
+                Day 1/
+                Day 2/
+                Day 3/
+                    Dataset for eddypro training/
+                        ASCII/
+                        GHG/
+                            results/
+                                eddypro_stats/
+                                eddypro_user_stats/
+                        TOB1/
+                            Resul/
+                                eddypro_stats/
+                                eddypro_user_stats/
+            RS_Phd_IGG/
+                Phdkursus/
+        Data/
+            Field work/
+                2013/
+                    Vou/
+                        LAI_downloaded_20130614/
+                        SPAD/
+                            Downloaded_20130701/
+                            Measured_20130702vou/
+                    Vou_R8_data_summer2013/
+                2014/
+                    From_Helene/
+                    LAI/
+                        DL20140617/
+                        Meas20140618/
+                        Meas20140702/
+                        Meas20140711/
+                        Meas20140724/
+                    SPAD/
+                        DL20140617/
+                            New folder/
+                        Meas20140618/
+                        Meas20140702/
+                        Meas_20140711_westfield_barley/
+                        Meas_20140724_west_potatoes/
+                LAI/
+                    LAI_download_20120626/
+                Measuring protocol/
+                SPAD/
+                    SPAD_20120702/
+                    SPAD_data/
+                        Old data_downloadet_20120626/
+                        SPAD_field1_vou/
+                    SPAD_data_temp/
+                        Old data_downloadet_20120626/
+                        SPAD_field1_vou/
+                        SPAD_vou_20120702/
+                    SPAD_unknown/
+            Labaratory data RUC/
+                bg-10-6279-2013-supplement/
+            LI-6400_data/
+                Old data/
+                Voulund 2012/
+                    CurveFitting/
+                        20120502/
+                        20120522/
+                        20120702/
+                    LI6400/
+                    LI6400_2012_vou/
+                    RCMP_LI6400/
+                        20120502/
+                        20120522/
+                        20120702/
+        Data analysis/
+            Bonn/
+                Data/
+                    Field work/
+                        LAI/
+                            LAI_download_20120626/
+                        Measuring protocol/
+                        SPAD/
+                            SPAD_20120702/
+                            SPAD_data/
+                                Old data_downloadet_20120626/
+                                SPAD_field1_vou/
+                            SPAD_data_temp/
+                                Old data_downloadet_20120626/
+                                SPAD_field1_vou/
+                                SPAD_vou_20120702/
+                            SPAD_unknown/
+                    Labaratory data RUC/
+                    LI-6400_data/
+                        Old data/
+                        Voulund 2012/
+                            CurveFitting/
+                                20120502/
+                                20120522/
+                                20120702/
+                            LI6400/
+                            LI6400_2012_vou/
+                            RCMP_LI6400/
+                                20120502/
+                                20120522/
+                                20120702/
+                Fluxdata_spike_detect_gapfilled/
+                    complete_job_20130301114232/
+                Matlab/
+                    Fixed Vcmax/
+                        Normal collatz model/
+                            Resul/
+                    Normal collatz model/
+                        Resul/
+                    Sesitivity collatz model/
+                        Resul/
+                TR32-HOBE meeting Bonn 2013/
+            Development of 2LeafMod/
+                Data/
+                    Field work/
+                        LAI/
+                            LAI_download_20120626/
+                        Measuring protocol/
+                        SPAD/
+                            SPAD_20120702/
+                            SPAD_data/
+                                Old data_downloadet_20120626/
+                                SPAD_field1_vou/
+                            SPAD_data_temp/
+                                Old data_downloadet_20120626/
+                                SPAD_field1_vou/
+                                SPAD_vou_20120702/
+                            SPAD_unknown/
+                    Labaratory data RUC/
+                    LI-6400_data/
+                        Old data/
+                        Voulund 2012/
+                            CurveFitting/
+                                20120502/
+                                20120522/
+                                20120702/
+                            LI6400/
+                            LI6400_2012_vou/
+                            RCMP_LI6400/
+                                20120502/
+                                20120522/
+                                20120702/
+                EddyPro/
+                    2012_AGU_apr_aug_without_burba/
+                        eddypro_stats/
+                    2012_AGU_apr_aug_with_burba/
+                        eddypro_stats/
+                Field_data/
+                Fluxdata_spike_detect_gapfilled/
+                Matlab/
+                    Normal collatz model/
+                        Resul/
+                    Sesitivity collatz model/
+                        Resul/
+        Dissertation/
+            Inspiration/
+        Fieldwork/
+            Measuring protocol/
+        From_USB-2016-05-27/
+            From USB/
+                Voulund20130807_Lumex1_gimballed/
+        GEM/
+        HOBE/
+            Instrumentation/
+                LI-610_failure_mar_2014/
+                Maintenance_calib/
+                    Pics/
+                NR01 temperature problem/
+        KAUST/
+            Greenhouse experiment/
+                CF-tool_ACi_Vcmax_Rscript/
+                LI6400dataKAUST/
+                    M1/
+                    M2/
+            REGFLEC/
+            REGFLEC code/
+                REGFLEC/
+                    ancillary/
+                        AOT/
+                        CDL/
+                            All_data/
+                        DEM/
+                            w020n90/
+                            w100n40/
+                            w100n90/
+                            w140n40/
+                            w140n90/
+                        INV/
+                            DAILY/
+                    Landsat/
+                        Bulk/
+                            2013/
+                                LC81970212013154LGN00/
+                                    BANDS1_6/
+                                    REGFLEC_INPUTS/
+                                LE71960212013091ASN00/
+                                    BANDS1_6/
+                                    REGFLEC_INPUTS/
+                    USGS/
+                REGFLEC_INPUTS/
+                save/
+        Litterature/
+            Andet/
+                Forelæsninger/
+            Articles/
+                Arctic/
+                Biophysical controls/
+                Canopy scaling schemes/
+                Chlorophyll/
+                Climate change effects/
+                Eddy covariation/
+                Energy balance/
+                Footprint/
+                Forest/
+                LAI_NDVI/
+                Leaf level measurements/
+                LEAFC3-N/
+                LI-6400/
+                Methane/
+                Models/
+                    JULES/
+                Parameterization/
+                Partitioning/
+                Photosyntesis/
+                    Modelling/
+                PPFD/
+                Respiration/
+                RS/
+                Seasonality/
+                UAV/
+                    Camera_correction/
+            Book_chaps/
+                cambridge-core_terrestrial-biosphere-atmosphere-fluxes_22Jun2020/
+                Canopy Photosyntesis_From basics to applications/
+                DataDriven Modeling Using MATLAB in Water Resources and Environmental Engineering/
+                Eddy Covariance - A practical guide to measurements and data analysis/
+                Environmental Modeling/
+                Experimental design and data analysis for biologists/
+                Handbook of Micrometeorology/
+                MATLAB® and Design Recipes for Earth Sciences/
+                MATLAB® Recipes for Earth Sciences/
+                Plant Physiological Ecology/
+                Python/
+                Statistical Data Analysis Explained/
+                Statistical Methods in the Atmospheric Sciences/
+                Structural Equation Modeling 2/
+                Stuctural Equation modeling/
+                The Continental-Scale Greenhouse Gas Balance of Europe/
+            CABLE/
+            CLM4/
+            Download from ReadCube/
+            EC method/
+            Manuals/
+            Mendeley/
+            Posters/
+            Reports and phds/
+                Rob Clement PhD Thesis/
+            Statistik/
+            Users guides/
+                ImageJ/
+        Others_PPT/
+            QC_QA_Gap-filling_flux_partitioning/
+            SPAD_Chl_N/
+        Papers/
+            Daisy_paper/
+                ClimateData/
+                    Historical/
+                From_EVB/
+                    Fluxdata_Foulum/
+                    rasmus/
+                        output/
+                Litterature/
+                Manuscript/
+                Model parameterization/
+                    Weatherfiles/
+                        Warmup1998_2009/
+                Model_runs/
+                    genweather_vou/
+                    Projections/
+                        2100/
+                            RCP45/
+                                CM1/
+                                CM2/
+                                CM3/
+                                CM4/
+                                R1_S1/
+                                R1_S2/
+                                R1_S3/
+                                R2_S1/
+                                R2_S2/
+                                R2_S3/
+                                R3_S1/
+                                R3_S2/
+                                R3_S3/
+                            RCP85/
+                        pre-current/
+                        Validation/
+                            Foulum/
+                            Voulund/
+                    Tests/
+                        FCC3SSOC_Voulund/
+                            Output_v526b/
+                MODIS/
+                    Voulund2009-2014/
+                        LAI_Fpar/
+                textpad-daisy-v2.0/
+                    textpad-daisy-v2.0/
+                    __MACOSX/
+                        textpad-daisy-v2.0/
+            Footprint/
+                Foot_cal_Rado/
+                Kljun2015_footprintmodel/
+            GHG_paper/
+                AIS/
+                    CNTR_2014_03M_SH/
+                        CNTR_2014_03M_SH/
+                            CNTR_2014_03M_SH/
+                                CNTR_2014_03M_SH/
+                                    Data/
+                                    Metadata/
+                                        XML/
+                    EBM_v10_sample_shape/
+                        EuroBoundaryMap_v10_sample/
+                            AdministrativeUnits/
+                            BasicGeometry/
+                            StatisticalUnits/
+                    NUTS-2013-10M-SH/
+                        NUTS_2013_10M_SH/
+                            metadata/
+                    NUTS_2013_01M_SH/
+                        NUTS_2013_01M_SH/
+                            metadata/
+                    SkernCatchment_Shapefiles/
+                Curve fitting_JianWU/
+                CurveFitting/
+                    glu_w25st_Tref10/
+                        2009/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2010/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2011/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2012/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2013/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2014/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        Parameter_estimation/
+                    skj_w25st_Tref10/
+                        2009/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2010/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2011/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2012/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2013/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2014/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        Parameter_estimation/
+                    vou_w25st_Tref10/
+                        2009/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2010/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2011/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2012/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2013/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        2014/
+                            LRCplot/
+                            LRCplot2/
+                            TRCplot/
+                        Parameter_estimation/
+                Fluxdata_general_matlab/
+                Footprint/
+                    FFP_Matlab/
+                Manuscript/
+                    AMF/
+                        Figures/
+                        Revision/
+                            New figures/
+                            Re-submussion/
+                                Figures/
+                            Re-submussion2/
+                                Figures/
+                    Leftovers/
+                    MH1/
+                    Old_versions/
+                    Tables/
+                    Various data/
+                MODIS/
+                    AG/
+                        All/
+                    All/
+                    FO/
+                        GTiff.tar/
+                            GTiff/
+                    ME/
+                        All/
+                Outlier_Burba_Stor/
+                    Gludsted/
+                        RevisedMarch2015/
+                            DespikeBurbaStorageQA_v1_BLim5degC/
+                                Output_all_years/
+                                upload_glu_gaps_2009_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2010_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2011_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2012_001_366_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2013_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2014_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v2_BLim0degC/
+                                Output_all_years/
+                                upload_glu_gaps_2009_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2010_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2011_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2012_001_366_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2013_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2014_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v3_FullBurba/
+                                Output_all_years/
+                                upload_glu_gaps_2009_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2010_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2011_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2012_001_366_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2013_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2014_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v4_NoBurba/
+                                Output_all_years/
+                                upload_glu_gaps_2009_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2010_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2011_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2012_001_366_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2013_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_glu_gaps_2014_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                            Gapfilled_v1_4/
+                                Processed/
+                                    Yearly_GF_v1/
+                                        Daily_sums/
+                                    Yearly_GF_v3/
+                                        Daily_sums/
+                                    Yearly_GF_v4/
+                                        Daily_sums/
+                                Processed_new_part_method/
+                                    Yearly_GF_v1/
+                                        Avg_anomaly/
+                                        Daily_sums/
+                                    Yearly_GF_v3/
+                                        Avg_anomaly/
+                                        Avg_anomaly2/
+                                        Avg_anomaly3/
+                                        Avg_anomaly4/
+                                        Avg_anomaly5/
+                                        Daily_sums/
+                                        Daily_sums2/
+                                    Yearly_GF_v4/
+                                        Avg_anomaly/
+                                        Daily_sums/
+                                REddyResults_glu_09_14_v1/
+                                REddyResults_glu_09_14_v2/
+                                REddyResults_glu_09_14_v3/
+                                REddyResults_glu_09_14_v4/
+                                Yearly_v1/
+                                    REddyResults_glu09_v1/
+                                    REddyResults_glu10_v1/
+                                    REddyResults_glu11_v1/
+                                    REddyResults_glu12_v1/
+                                    REddyResults_glu13_v1/
+                                    REddyResults_glu14_v1/
+                                Yearly_v3/
+                                    REddyResults_glu09_v3/
+                                    REddyResults_glu10_v3/
+                                    REddyResults_glu11_v3/
+                                    REddyResults_glu12_v3/
+                                    REddyResults_glu13_v3/
+                                    REddyResults_glu14_v3/
+                                Yearly_v4/
+                                    REddyResults_glu09_v4/
+                                    REddyResults_glu10_v4/
+                                    REddyResults_glu11_v4/
+                                    REddyResults_glu12_v4/
+                                    REddyResults_glu13_v4/
+                                    REddyResults_glu14_v4/
+                    Skjern/
+                        RevisedMarch2015/
+                            DespikeBurbaStorageQA_v1_BLim5degC/
+                                Output_all_years/
+                                upload_skj_gaps_2009_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2010_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2011_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2012_001_366_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2013_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2014_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v2_BLim0degC/
+                                Output_all_years/
+                                upload_skj_gaps_2009_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2010_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2011_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2012_001_366_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2013_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2014_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v3_FullBurba/
+                                Output_all_years/
+                                upload_skj_gaps_2009_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2010_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2011_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2012_001_366_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2013_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2014_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v4_NoBurba/
+                                Output_all_years/
+                                upload_skj_gaps_2009_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2010_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2011_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2012_001_366_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2013_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_skj_gaps_2014_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                            Gapfilled_v1_4/
+                                Processed/
+                                    Yearly_GF_v1/
+                                        Daily_sums/
+                                    Yearly_GF_v3/
+                                        Daily_sums/
+                                    Yearly_GF_v4/
+                                        Daily_sums/
+                                Processed_new_part_method/
+                                    Yearly_GF_v1/
+                                        Avg_anomaly/
+                                        Daily_sums/
+                                    Yearly_GF_v3/
+                                        Avg_anomaly/
+                                        Avg_anomaly2/
+                                        Avg_anomaly3/
+                                        Avg_anomaly4/
+                                        Avg_anomaly5/
+                                        Daily_sums/
+                                        Daily_sums2/
+                                    Yearly_GF_v4/
+                                        Avg_anomaly/
+                                        Daily_sums/
+                                REddyResults_skj_09_14_v1/
+                                REddyResults_skj_09_14_v2/
+                                REddyResults_skj_09_14_v3/
+                                REddyResults_skj_09_14_v4/
+                                Yearly_v1/
+                                    REddyResults_skj09_v1/
+                                    REddyResults_skj10_v1/
+                                    REddyResults_skj11_v1/
+                                    REddyResults_skj12_v1/
+                                    REddyResults_skj13_v1/
+                                    REddyResults_skj14_v1/
+                                Yearly_v3/
+                                    REddyResults_skj09_v3/
+                                    REddyResults_skj10_v3/
+                                    REddyResults_skj11_v3/
+                                    REddyResults_skj12_v3/
+                                    REddyResults_skj13_v3/
+                                    REddyResults_skj14_v3/
+                                Yearly_v4/
+                                    REddyResults_skj09_v4/
+                                    REddyResults_skj10_v4/
+                                    REddyResults_skj11_v4/
+                                    REddyResults_skj12_v4/
+                                    REddyResults_skj13_v4/
+                                    REddyResults_skj14_v4/
+                            Strg_limit_assessment/
+                    Voulund/
+                        RevisedMarch2015/
+                            Burba_effect_test_2010/
+                                Gapfilled/
+                                    Daily_sums/
+                                upload_vou_gaps_2010_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLim10degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLim15degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLim20degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLim25degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLimminus10degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLimminus15degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLimminus5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                            Comparison_LI7000vsLI7500/
+                                LI7000_2009_274_365/
+                                    upload_vou_gaps_2009_274_365_LI70_NoBurba/
+                                        MatlabFig/
+                                        PngFig/
+                                LI7000_2010_001_156/
+                                    upload_vou_gaps_2010_001_156_LI70_NoBurba/
+                                        MatlabFig/
+                                        PngFig/
+                                Plot/
+                                    New/
+                                        qf_lt_2_gf_lt_05/
+                                        qf_lt_2_gf_lt_06/
+                                    qf_lt_1/
+                                    qf_lt_2/
+                                    Subplots/
+                                        qf_lt_2/
+                                    Ta_lt_10degC/
+                                    Ta_lt_5degC/
+                                    Ustar_gt_0com15/
+                                    Ustar_gt_0com25/
+                                REddyResults_vou09_274_365_LI70/
+                                REddyResults_vou10_001_156_LI70/
+                            DespikeBurbaStorageQA_v1_BLim5degC/
+                                Output_all_years/
+                                upload_vou_gaps_2009_001_312_LI70_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2009_313_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2011_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2012_001_366_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2013_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2014_001_365_LI75_BLim5degC/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v2_BLim0degC/
+                                Output_all_years/
+                                upload_vou_gaps_2009_001_312_LI70_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2009_313_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2011_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2012_001_366_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2013_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2014_001_365_LI75_BLim0degC/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v3_FullBurba/
+                                Output_all_years/
+                                upload_vou_gaps_2009_001_312_LI70_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2009_313_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2011_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2012_001_366_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2013_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2014_001_365_LI75_FullBurba/
+                                    MatlabFig/
+                                    PngFig/
+                            DespikeBurbaStorageQA_v4_NoBurba/
+                                Output_all_years/
+                                upload_vou_gaps_2009_001_312_LI70_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2009_313_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2010_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2011_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2012_001_366_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2013_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                                upload_vou_gaps_2014_001_365_LI75_NoBurba/
+                                    MatlabFig/
+                                    PngFig/
+                            Gapfilled_v1_4/
+                                Processed/
+                                    Yearly_GF_v1/
+                                        Daily_sums/
+                                    Yearly_GF_v3/
+                                        Daily_sums/
+                                    Yearly_GF_v4/
+                                        Daily_sums/
+                                Processed_new_part_method/
+                                    Yearly_GF_v1/
+                                        Avg_anomaly/
+                                        Daily_sums/
+                                    Yearly_GF_v3/
+                                        Avg_anomaly/
+                                        Avg_anomaly2/
+                                        Avg_anomaly3/
+                                        Avg_anomaly4/
+                                        Avg_anomaly5/
+                                        Daily_sums/
+                                        Daily_sums2/
+                                    Yearly_GF_v3_2/
+                                        Daily_sums/
+                                    Yearly_GF_v4/
+                                        Avg_anomaly/
+                                        Daily_sums/
+                                REddyResults_vou09_14_v1/
+                                REddyResults_vou09_14_v2/
+                                REddyResults_vou09_14_v3/
+                                REddyResults_vou09_14_v4/
+                                Yearly_v1/
+                                    REddyResults_vou09_v1/
+                                    REddyResults_vou10_v1/
+                                    REddyResults_vou11_v1/
+                                    REddyResults_vou12_v1/
+                                    REddyResults_vou13_v1/
+                                    REddyResults_vou14_v1/
+                                Yearly_v3/
+                                    REddyResults_vou09_v3/
+                                    REddyResults_vou10_v3/
+                                    REddyResults_vou11_v3/
+                                    REddyResults_vou12_v3/
+                                    REddyResults_vou13_v3/
+                                    REddyResults_vou14_v3/
+                                Yearly_v4/
+                                    REddyResults_vou09_v4/
+                                    REddyResults_vou10_v4/
+                                    REddyResults_vou11_v4/
+                                    REddyResults_vou12_v4/
+                                    REddyResults_vou13_v4/
+                                    REddyResults_vou14_v4/
+                            Strg_limit_assessment/
+                        Tmp/
+                Plot/
+                    Al_sites/
+                    Final/
+                        Fingerprint/
+                        FluxPhen/
+                        Flux_cum/
+                        Flux_seasonal/
+                        FunctionalFlux_Ta_PPT_Rg/
+                        HOS/
+                        IAV/
+                        Met/
+                        Parameters_boxplot/
+                    Matlab_fun/
+                        columnlegend/
+                            columnlegend/
+                        export_fig/
+                            .ignore/
+                        masumhabib-PlotPub-v2.1-0-g19968b0/
+                            masumhabib-PlotPub-19968b0/
+                                examples/
+                                examples_class/
+                                lib/
+                        rotateXLabels/
+                    Patha/
+                        Graphs/
+                            Inkscape/
+                        Output/
+                    TF/
+                    vou/
+                        Met/
+                Precip_data/
+                    SWC/
+                Statistics/
+                Uncertenty/
+                    GLU/
+                    SKJ/
+                    VOU/
+                    Yearly/
+                Wavelet/
+            Hector2015/
+            Helene_UAV1/
+            Helene_WDI_2016/
+            How_to_write_papers/
+            NH3_Hansenetal2015/
+            Radoslaw_et_al_2014/
+            REGFLEC/
+                Foot_cal_Rado/
+            Skjern3yers_Herbst_2012/
+        Presentations/
+            AGU2012/
+            Annual Meeting ECOCLIM 2012/
+            ECOCLIM workshop March 2013/
+            EGU2014/
+            Flux Course Poland/
+            HOBE annual meeting 2014/
+            HOBE annulal meeting 2012/
+            HOBE-TR32 workshop Sønderborg 2012/
+            ICOS/
+            Journal club/
+            Mini-workshop RUC april 2013/
+            Nordflux Risø november 2011/
+                Data/
+                Plot_results/
+                    budget/
+                    Met_canopy_develop/
+                        Contourplot/
+                        Wind/
+                    Modeleval/
+                    Parameterization/
+                        Aci/
+                        AQ/
+                        ET/
+                        Stomatal/
+                        Vcmax/
+                    Partitioning/
+                    Photosynth/
+                    resp/
+            Phd conference november 2011/
+            TR32-HOBE meeting Bonn 2013/
+        Python scripts/
+            Precip/
+            Raw data management/
+            Scripts met_hobe/
+        Svalbard project/
+            Snowfence/
+        Teaching/
+            EDG_droneoplæg/
+            KJV/
+                Kompendier_noter/
+                oev1/
+                    flow_dir/
+                    info/
+                    Results_xls/
+                Oev10/
+                    GIS_10.3/
+                        grund_diff/
+                        info/
+                Oev11/
+                    oev8/
+                oev2/
+                    aspect/
+                    info/
+                    reclassnorth/
+                    reclasssouth/
+                    slope/
+                    slopenorth/
+                    slopesouth/
+                oev3/
+                oev4/
+                Oev5/
+                oev6/
+                oev7/
+                    smoke vids/
+                oev8/
+                oev9/
+                Presentations/
+                    Oev 8/
+                    Oev1/
+                    Oev2/
+                    Oev3/
+                    Oev4/
+                    oev5/
+                    oev6/
+                    oev7/
+                    oev9/
+            NG feltkursus/
+        UAV/
+            ACP_Creator/
+            ACP_Creator_HNS/
+            Pictures/
+                UAV/
+                Work/
+            scripts/
+                DTD/
+                    input/
+                    output/
+                    prepareInput/
+                triangle_gui_v3/
+                    .metadata/
+                        .plugins/
+                            com.rsi.idldt.ui/
+                            org.eclipse.core.resources/
+                                .projects/
+                                    Default/
+                                        .indexes/
+                                .root/
+                                    .indexes/
+                                .safetable/
+                            org.eclipse.core.runtime/
+                                .settings/
+                            org.eclipse.debug.core/
+                                .launches/
+                            org.eclipse.ui.ide/
+                            org.eclipse.ui.workbench/
+                            org.eclipse.ui.workbench.texteditor/
+                    Default/
+                __pycache__/
+            UAV/
+    Notes/
+Billeder/
+    Filmrulle/
+    Skærmbilleder/
+    Zackenberg/
+        Fen/
+        Heath/
+        Other/
+        Station/
+Desktop/
+    2024_2025/
+        Winter_check_1/
+            Data/
+                1/
+                    archive/
+                    raw/
+                        2024/
+                            09/
+                            10/
+                            11/
+                            12/
+                    results/
+                        2024/
+                            09/
+                            10/
+                            11/
+                            12/
+                    summaries/
+                2/
+                    archive/
+                    icos/
+                        2024/
+                            09/
+                            10/
+                            11/
+                            12/
+                    image/
+                    raw/
+                        2024/
+                            09/
+                            10/
+                            11/
+                            12/
+                    results/
+                        2024/
+                            09/
+                            10/
+                            11/
+                            12/
+                    summaries/
+            Notes/
+            Pictures/
+        Winter_check_2/
+            Data/
+                3/
+                    archive/
+                    raw/
+                        2025/
+                            01/
+                            02/
+                    results/
+                        2025/
+                            01/
+                            02/
+                    summaries/
+                4/
+                    archive/
+                    icos/
+                        2025/
+                            01/
+                            02/
+                    image/
+                    raw/
+                        2024/
+                            12/
+                        2025/
+                            01/
+                            02/
+                    results/
+                        2024/
+                            12/
+                        2025/
+                            01/
+                            02/
+                    summaries/
+            Notes/
+            Pictures/
+        Winter_check_3/
+            Data/
+            Notes/
+            Pictures/
+        Winter_check_4/
+            Data/
+            Notes/
+            Pictures/
+    Google Drive (Not synced)/
+        Lost and Found/
+    Papers/
+    Precip_Asiaq_backup_202504291839/
+Documents/
+    CampbellSci/
+        DevConfig/
+            OperatingSystems/
+    Custom Office Templates/
+    GL-ZaF/
+        GL-ZaF-backups/
+    KiCad/
+        9.0/
+            3dmodels/
+            3rdparty/
+            footprints/
+            plugins/
+            projects/
+            scripting/
+                plugins/
+            symbols/
+            template/
+    My Music/
+    My Pictures/
+    My Videos/
+    Obsidian Vault/
+        .obsidian/
+            plugins/
+                calendar/
+                obsidian-kanban/
+                obsidian-mind-map/
+        ICOS planning/
+            .obsidian/
+    OneNote Notebooks/
+    Python Scripts/
+    TinyCAD/
+        examples/
+        library/
+    Zoom/
+Duplicati/
+ICOS/
+    Administration/
+        Applications_MST/
+            Afrapportering/
+            Re_ Ansøgning og budget/
+        Budget/
+        Cargo/
+        Field_botanist/
+            2023/
+                Coverletters_CVs/
+                    Aia_Jacobsen/
+                    Alfred_Kok/
+                    Alice_Hennig/
+                    Amanda_Sandberg/
+                    Amanda_Thomsen/
+                    Annabel_Jade_Nettleton/
+                    Anna_San_Torcuato/
+                    Annie_Houston/
+                    Augustin_Baussay/
+                    Brianna_Willox/
+                    Christian_Menheere/
+                    Christie_Randall/
+                    Christina_Albus/
+                    Christoffer_H_Pedersen/
+                    Dinand_Scholten/
+                    Donovan_Allen/
+                    Eirill_Eide/
+                    Emma_Dissing_Winzentsen/
+                    Enni_Manninen/
+                    Friederike_Bahlmann/
+                    Gabriella_Hammer/
+                    Gareth_Johnson/
+                    Georgio_Zavattoni/
+                    Glauco_Flavot/
+                    Guro_Oedegaardstuen/
+                    Halley_Mastro/
+                    Hannah_Schmidt/
+                    Hector_Swift/
+                    Ida_Koehn/
+                    Ingrid_Paulsen/
+                    Isabella_Powell/
+                    Joanna_Eaton/
+                    Johanne_Petersen/
+                    Johan_Naervae/
+                    Josephine_N_Ryborg/
+                    Kai_Muller/
+                    Katherine_Johnson/
+                    Klara_F_B_Eriksen/
+                    Klara_Lin_Termansen/
+                    Kristian_V_Damholt/
+                        New folder/
+                    Lara_Bohanna/
+                    Lara_Fritzche/
+                    Laura_M_K_Johnsen/
+                    Laura_Palacios/
+                    Linda_Pacaud/
+                    MAds_Møller/
+                    Mae_Woodruff/
+                    Malthe_Brask/
+                    Maria_Teresa_Pinho/
+                    Marthe_Svihus/
+                    Millie_Harding/
+                    Minna_Kruusamae/
+                    Natalie_Slaatsveen_Nazareno/
+                    Nicolai_H_Christensen/
+                    Nikolaos_Petridis/
+                    Nora_Baron/
+                    Oscar_Erlandsson/
+                    Paul_Unterluggauer/
+                    Peter_Mikula/
+                    PEtya_Petrova/
+                    Poula_Hansen/
+                    Rebecca_Donali/
+                    Riku_Lappalainen/
+                        New folder/
+                    Saga_Kauniskangas/
+                    Sahra_Gibson/
+                    Sarah_T_Chittenden/
+                    Sarah_Wild/
+                    Sara_Christensen/
+                    Sofia_Houlind/
+                    Sofie_Alveteg/
+                    Suve/
+                    Taavi_Kupila/
+                    Taryn_Woulfe/
+                    Tonje_Lindeman/
+                    Vanja_E_Gomo/
+                    Young_Jun_Lee/
+                    Zachery_Reimer/
+                Employment/
+                Interviews/
+            2024/
+                HR/
+        Field_technician_2024/
+        Job_description_ICOS_Manager2024/
+        Phd interview/
+            1_ANNA/
+            2_ISABELLA/
+            3_LASSE/
+        Phd_ICOS_2024/
+        ZAC_applications/
+            2023/
+            2024/
+                All_applications_projects/
+            2025/
+    DK/
+        DK-Gds/
+            BADM_backup/
+        DK-Skj/
+            BADM_backup_20240319/
+        DK-Vng/
+    Documents/
+        ICOSBADM/
+            ICOSBADM/
+                Associated stations ICOSBADM/
+                    Previous versions/
+                Previous versions/
+        Instructions/
+            Instructions/
+                Previous versions/
+                    Discussion versions/
+        Labelling reports for Ecosystem stations/
+            Labelling reports for Ecosystem stations/
+        Protocols/
+    GL-Dsk/
+    GL-NuF/
+        New_mast_2023/
+            Manuals/
+    ICOS_ShareDrive/
+        2024/
+        NuF/
+    Isabella_ShareDrive/
+        Books/
+            cambridge-core_terrestrial-biosphere-atmosphere-fluxes_22Jun2020/
+            Eddy Covariance - A practical guide to measurements and data analysis/
+            Handbook of Micrometeorology/
+        Data/
+            GL-ZaF/
+                2020/
+                2021/
+                2022/
+                2023/
+                2024/
+        Papers/
+    ZAC/
+        Fieldwork/
+            2022_June/
+                Pictures/
+                    Zackenberg June 2022-001/
+                        Zackenberg June 2022/
+            2023_Apr_May/
+                Data_backup/
+                    ASIAQ_precip_CR1000X/
+                        20230510/
+                        20230511/
+                    Backup_AC_ICOS_backupCR6 202305061825/
+                    Backup_SD_ZaF_202305061744/
+                        NewFolder/
+                Pictures/
+                    ASIAQ_climate_station/
+                    BioBasis_Muskox/
+                    GEUS_APO/
+                    Gios_DNB/
+                    GL-ZaF/
+                    GL-ZaH/
+                    ICOS_botanists/
+                    Other/
+                    Screenshots/
+                    ZAC_station/
+            2024_Aug_Sep/
+            2024_spring/
+                Planning/
+            Spring_2025/
+        GL-ZaF/
+            ArcGIS/
+                MM1_1km_square/
+                Multispectral_class/
+                    info/
+                    res/
+                    res1/
+                To_ETC/
+                Vegetationmap/
+            BADM/
+                Ancillary/
+                ETC_BADM_DB/
+                    20230330/
+                In_prep/
+                    ZAC_APR2023/
+                Template/
+            Data/
+                ASIAQ_precip/
+                    ICOS/
+                GL-ZaH_EC_202109211430_L01_F01/
+                Test_data_step2/
+            Fieldwork/
+                GL-ZaF_Fieldwork_ShareDrive/
+                    Data_pictures_field_notes/
+                        2022/
+                            GAI/
+                                Vegetation_data_August_2022/
+                                    GL-ZaF/
+                                        Canopy_height_photos/
+                                        Scan_data/
+                                            GL_ZaF_GAI/
+                                                CF/
+                                                HF/
+                                            GL_ZaF_LMA/
+                                    GL-ZaH/
+                                        Canopy_height_photos/
+                                        Scan_data/
+                                            GL_ZaH_GAI/
+                            GAI_20220625/
+                                Destructive_scans/
+                                Field_notes/
+                                Pictures/
+                            GAI_20220801/
+                    ICOS_BADM/
+                    Instructions/
+                    Manual/
+                    Plant_species/
+                        Description/
+                        Images/
+                    Sampling_templates/
+                    Software/
+                        Canon_software/
+                            win-lide300-1_1-n_mcd/
+                                win/
+                                    CDC/
+                                    CDM/
+                                    DIALUTIL/
+                                    Driver/
+                                    EGV/
+                                    EISREG/
+                                    EPPED/
+                                    EWPEX/
+                                    FLP/
+                                    HAE_/
+                                    IJPLM/
+                                    LIB/
+                                        PrinterHeadAlignment/
+                                        WEBREG/
+                                        x64/
+                                        x86/
+                                    MIG/
+                                    MOPlugIn/
+                                    MYPRINT/
+                                    NDSU/
+                                    NWHELP/
+                                    OCRD/
+                                    PJS_/
+                                    PSP/
+                                    QTBOX/
+                                    QUICK/
+                                    RES/
+                                        ANIME/
+                                        Bitmap/
+                                            Button/
+                                        EULA/
+                                        MESSAGE/
+                                            Arabic/
+                                                AdobeICC/
+                                            Bulgarian/
+                                                AdobeICC/
+                                            Croatian/
+                                                AdobeICC/
+                                            Czech/
+                                                AdobeICC/
+                                            Danish/
+                                                AdobeICC/
+                                            Dutch/
+                                                AdobeICC/
+                                            English/
+                                                AdobeICC/
+                                            Estonian/
+                                                AdobeICC/
+                                            Finnish/
+                                                AdobeICC/
+                                            French/
+                                                AdobeICC/
+                                            German/
+                                                AdobeICC/
+                                            Greek/
+                                                AdobeICC/
+                                            Hungarian/
+                                                AdobeICC/
+                                            Indonesian/
+                                                AdobeICC/
+                                            Italian/
+                                                AdobeICC/
+                                            Japanese/
+                                                AdobeICC/
+                                            Korean/
+                                                AdobeICC/
+                                            Latvian/
+                                                AdobeICC/
+                                            Lithuanian/
+                                                AdobeICC/
+                                            Norwegian/
+                                                AdobeICC/
+                                            Polish/
+                                                AdobeICC/
+                                            Portuguese/
+                                                AdobeICC/
+                                            Rumanian/
+                                                AdobeICC/
+                                            Russian/
+                                                AdobeICC/
+                                            Simplified_Chinese/
+                                                AdobeICC/
+                                            Slovak/
+                                                AdobeICC/
+                                            Slovenian/
+                                                AdobeICC/
+                                            Spanish/
+                                                AdobeICC/
+                                            Swedish/
+                                                AdobeICC/
+                                            Thai/
+                                                AdobeICC/
+                                            Traditional_Chinese/
+                                                AdobeICC/
+                                            Turkish/
+                                                AdobeICC/
+                                            Ukrainian/
+                                                AdobeICC/
+                                            Vietnamese/
+                                                AdobeICC/
+                                    RESM/
+                                        ANIME/
+                                        Bitmap/
+                                        PROGRESS_ANIME/
+                                    TESTPRN/
+                                    TUTO/
+                                    XPS/
+                        ImageJ/
+                            ij153-win-java8/
+                                ImageJ/
+                                    jre/
+                                        bin/
+                                            dtplugin/
+                                            plugin2/
+                                            server/
+                                        lib/
+                                            amd64/
+                                            cmm/
+                                            deploy/
+                                            ext/
+                                            fonts/
+                                            images/
+                                                cursors/
+                                            jfr/
+                                            management/
+                                            security/
+                                                policy/
+                                                    limited/
+                                                    unlimited/
+                                    luts/
+                                    macros/
+                                        Examples/
+                                            BeanShell/
+                                            Images/
+                                            Java/
+                                            JavaScript/
+                                            Macro/
+                                            Python/
+                                        toolsets/
+                                    plugins/
+                                        3D/
+                                        Analyze/
+                                        Color/
+                                        Examples/
+                                            _Macros/
+                                            _Scripts/
+                                        Filters/
+                                        Graphics/
+                                        Input-Output/
+                                        jars/
+                                        Scripts/
+                                        Stacks/
+                                        Tools/
+                    Spatial_sampling_scheme/
+                VegetationCampaign2023/
+                    Fieldwork/
+                        GL-ZaF_fen/
+                            Data_pictures_field_notes/
+                                2022/
+                                    GAI/
+                                        Vegetation_data_August_2022/
+                                            GL-ZaF/
+                                                Canopy_height_photos/
+                                                Scan_data/
+                                                    GL_ZaF_GAI/
+                                                        CF/
+                                                        HF/
+                                                    GL_ZaF_LMA/
+                                            GL-ZaH/
+                                                Canopy_height_photos/
+                                                Scan_data/
+                                                    GL_ZaH_GAI/
+                                    GAI_20220625/
+                                        Destructive_scans/
+                                        Field_notes/
+                                        Pictures/
+                            Extra material (Eirill, 2023)/
+                                Extra non-destructive GAIs/
+                                    20230708/
+                                        Field_notes_20230708/
+                                        Plots_20230708/
+                                    20230713/
+                                        Field_notes_20230713/
+                                        Plots_20230713/
+                                Pics for species overview/
+                            Field reports, Eirill/
+                            ICOS_BADM/
+                            Instructions/
+                            Manual/
+                            Plant_species/
+                                Description/
+                                Images/
+                            Results_2023/
+                                Foliar_LMA_Plant_scans/
+                                GAI_results/
+                                ICOS_plant_scans_2023/
+                                    GAI_20230703/
+                                    GAI_20230717/
+                                        GAI_20230717_original/
+                                    GAI_20230731/
+                                        CF/
+                                        HF/
+                                            ImageJ_GAI4_HF/
+                                    GAI_20230809/
+                                        CF/
+                                        HF/
+                                    GAI_20230816/
+                                        CF/
+                                        HF/
+                                    GAI_AGB_20230724/
+                                        CF/
+                                        HF/
+                                ImageJ_results_summary_2023/
+                                Moss/
+                                Pictures_GAI_AGB_2023/
+                                    GAI 5_20230808/
+                                    GAI+AGB_GL-ZaH/
+                                    GAI1_20230703/
+                                        Field_notes_20230703/
+                                        Plots_20230703/
+                                    GAI2_20230717/
+                                        Field_notes_20230717/
+                                        Plots_20230717/
+                                    GAI3_AGB1_20230724/
+                                        GAI3/
+                                    GAI4_20230731/
+                                    GAI6_20230815/
+                                    Moss GA + height 3/
+                                    MOSS NA peak/
+                                    Mosscount/
+                            Sampling_templates/
+                            Software/
+                                Canon_software/
+                                    win-lide300-1_1-n_mcd/
+                                        win/
+                                            CDC/
+                                            LIB/
+                                                PrinterHeadAlignment/
+                                                WEBREG/
+                                                x64/
+                                                x86/
+                                            RES/
+                                                ANIME/
+                                                Bitmap/
+                                                    Button/
+                                                EULA/
+                                                MESSAGE/
+                                                    Arabic/
+                                                        AdobeICC/
+                                                    Bulgarian/
+                                                        AdobeICC/
+                                                    Croatian/
+                                                        AdobeICC/
+                                                    Czech/
+                                                        AdobeICC/
+                                                    Danish/
+                                                        AdobeICC/
+                                                    Dutch/
+                                                        AdobeICC/
+                                                    English/
+                                                        AdobeICC/
+                                                    Estonian/
+                                                        AdobeICC/
+                                                    Finnish/
+                                                        AdobeICC/
+                                                    French/
+                                                        AdobeICC/
+                                                    German/
+                                                        AdobeICC/
+                                                    Greek/
+                                                        AdobeICC/
+                                                    Hungarian/
+                                                        AdobeICC/
+                                                    Indonesian/
+                                                        AdobeICC/
+                                                    Italian/
+                                                        AdobeICC/
+                                                    Japanese/
+                                                        AdobeICC/
+                                                    Korean/
+                                                        AdobeICC/
+                                                    Latvian/
+                                                        AdobeICC/
+                                                    Lithuanian/
+                                                        AdobeICC/
+                                                    Norwegian/
+                                                        AdobeICC/
+                                                    Polish/
+                                                        AdobeICC/
+                                                    Portuguese/
+                                                        AdobeICC/
+                                                    Rumanian/
+                                                        AdobeICC/
+                                                    Russian/
+                                                        AdobeICC/
+                                                    Simplified_Chinese/
+                                                        AdobeICC/
+                                                    Slovak/
+                                                        AdobeICC/
+                                                    Slovenian/
+                                                        AdobeICC/
+                                                    Spanish/
+                                                        AdobeICC/
+                                                    Swedish/
+                                                        AdobeICC/
+                                                    Thai/
+                                                        AdobeICC/
+                                                    Traditional_Chinese/
+                                                        AdobeICC/
+                                                    Turkish/
+                                                        AdobeICC/
+                                                    Ukrainian/
+                                                        AdobeICC/
+                                                    Vietnamese/
+                                                        AdobeICC/
+                                            RESM/
+                                                ANIME/
+                                                PROGRESS_ANIME/
+                                ImageJ/
+                                    ij153-win-java8/
+                                        ImageJ/
+                                            jre/
+                                                bin/
+                                                    dtplugin/
+                                                    plugin2/
+                                                    server/
+                                                lib/
+                                                    amd64/
+                                                    cmm/
+                                                    deploy/
+                                                    ext/
+                                                    fonts/
+                                                    images/
+                                                        cursors/
+                                                    jfr/
+                                                    management/
+                                                    security/
+                                                        policy/
+                                                            limited/
+                                                            unlimited/
+                                            luts/
+                                            macros/
+                                                Examples/
+                                                    BeanShell/
+                                                    Images/
+                                                    Java/
+                                                    JavaScript/
+                                                    Macro/
+                                                    Python/
+                                                toolsets/
+                                            plugins/
+                                                3D/
+                                                Analyze/
+                                                Examples/
+                                                    _Macros/
+                                                    _Scripts/
+                                                Filters/
+                                                Graphics/
+                                                Input-Output/
+                                                jars/
+                                                Scripts/
+                                                Stacks/
+                                                Tools/
+                            Spatial_sampling_scheme/
+                        GL-ZaH_heath/
+                            Data_pictures_field_notes/
+                                2023/
+                                    Plant_scans/
+            Labeling/
+            Literature/
+            Logger programs/
+                L02/
+                L03/
+                L04/
+                L05/
+                L06/
+            Station_setup/
+                HEADERFILES/
+                Instrumentation/
+                    Cal_certificates/
+                    Zac_ICOS_program/
+                        Zac_ICOS_program/
+                photo/
+                    soil station north/
+                        installation 2019-08-11/
+                            profile 3/
+                            profile 4/
+                    soil station south/
+                        installation 2017-08-18/
+                            profile 1/
+                            profile 2/
+                    temp/
+                Positions/
+                    MM2 vegetation plots-CSV/
+                    MM2 vegetation plots-Shapefile/
+                SITE_CHAR/
+        GL-ZaH/
+            BADM/
+                ETC_BADM_DB/
+            Data/
+                2020/
+                    06/
+                        2020-06-30T144002_AIU-0514/
+                    07/
+                    08/
+                    09/
+                    10/
+                    11/
+                    12/
+                2021/
+                    01/
+                    06/
+                    07/
+                    08/
+                    09/
+                Ancillary/
+                Met/
+                    Precip/
+                        2021/
+                ProcessedData/
+                    2021/
+                    DATA_SUBMIT_GEM/
+                        2021/
+                    DATA_SUBMIT_ICOS/
+                        2021/
+                Tovi/
+            GL-ZaH_Fieldwork_ShareDrive/
+            Labeling/
+                Step 1/
+                    MM1_1km_square/
+            Setup/
+                Logger/
+                Positions/
+                    ICOS GL-ZaH 20220629-CSV/
+                    ICOS GL-ZaH 20220629-Shapefile/
+        Instrumtents/
+            ICOS cal certificates and logbooks/
+                energy/
+                    Efoy/
+                licor/
+                    config_files/
+                logger/
+                PA/
+                    certificates/
+                    manual/
+                        CS100 Barometric Pressure Sensor_files/
+                PAR/
+                    certificates/
+                    manuals/
+                Precip/
+                    certificates/
+                    manual/
+                RAD/
+                    Certificates/
+                SHF/
+                    Certificates/
+                TA_RH/
+                    certificates/
+                    manuals/
+                WD_WS/
+                    2d/
+                        certificates/
+                        manuals/
+                    3d/
+                        certificates/
+                            2011_Gill HS-50_sn_H000191_cal_2022-12-13/
+                            2017-05-22_Gill HS-50_sn_H172003_cal_2022-12-13/
+                WTD/
+            USBs and storage/
+            ZaF_new_tower/
+                Logger/
+                Rittal/
+                RS_connectors/
+                Tower/
+        Issafik/
+            2023_2024/
+            2024_2025/
+            Sirius_manual/
+        Logistics/
+            2024/
+            2025/
+            Shipment/
+                Shipping campbell/
+                Shipping gill/
+                Shipping_Licor_par/
+        Manuals_instructions/
+        Synology/
+Microsoft Copilot Chat-filer/
+Microsoft Teams Chat Files/
+Optagelser/
+Papers/
+    Abstracts_papers/
+        GSW2023_Nuuk/
+        ICOS_Nordic_2023/
+    Jaime PhD/
+        Jaime_paper3/
+        Jaime_Thesis/
+Pictures/
+    AnyDesk/
+    Camera Roll/
+    Filmrulle/
+    Saved Pictures/
+    Screenshots/
+    Skærmbilleder/
+Presentations/
+    BACE_meetings/
+        Data/
+    GEM/
+    Section_Science_Talk_GEM_data_rescue_20241010/
+        ICOS_NORDIC_SYMP/
+            Data/
+                ABCFlux_output/
+                    plots/
+                GL-Dsk/
+                    2020/
+                        Partitioned/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                    Biomet/
+                    Metadata/
+                GL-NuF/
+                    2020/
+                        Partitioned/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                GL-ZaF/
+                    2020/
+                        Partitioned/
+                            REddyResults_GL-ZaF_20231215_494005557/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                    Biomet/
+                    Metadata/
+                GL-ZaH/
+                    2020/
+                        Partitioned/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                    Biomet/
+                    Metadata/
+                Plot/
+Projects/
+    Data_projects/
+        ABCflux/
+        hesseflux/
+        ICOS_NORDIC_SYMP/
+            Data/
+                ABCFlux_output/
+                    plots/
+                GL-Dsk/
+                    2020/
+                        Partitioned/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                    Biomet/
+                    Metadata/
+                GL-NuF/
+                    2020/
+                        Partitioned/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                GL-ZaF/
+                    2020/
+                        Partitioned/
+                            REddyResults_GL-ZaF_20231215_494005557/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                    Biomet/
+                    Metadata/
+                GL-ZaH/
+                    2020/
+                        Partitioned/
+                    2021/
+                        Partitioned/
+                    2022/
+                        Partitioned/
+                    2023/
+                    Biomet/
+                    Metadata/
+                Plot/
+        PAR_GL-ZaF_issue_May2023/
+    GEM/
+        Paper_brainstorm_20231206/
+        ReportCard2023/
+            GL-Dsk/
+                REddyResults_GL-Dsk_20230412_382468613/
+            GL-NuF/
+                REddyResults_GL-NuF_20230412_910004704/
+            GL-ZaF/
+                REddyResults_GL-ZaF_20230414_80513063/
+            GL-ZaH/
+                REddyResults_GL-ZaH_20230416_512583691/
+        ReportCard2024/
+        ReportCard2025/
+Scanninger/
+Scripts_KU/
+    ChatGBT/
+    GAI_extract/
+    GitHub/
+        EricLar/
+            CampbellViz/
+                .git/
+                    hooks/
+                    info/
+                    logs/
+                        refs/
+                            heads/
+                            remotes/
+                                origin/
+                    objects/
+                        info/
+                        pack/
+                    refs/
+                        heads/
+                        remotes/
+                            origin/
+                        tags/
+            checkETC/
+                .git/
+                    hooks/
+                    info/
+                    logs/
+                        refs/
+                            heads/
+                            remotes/
+                                origin/
+                    objects/
+                        info/
+                        pack/
+                    refs/
+                        heads/
+                        remotes/
+                            origin/
+                        tags/
+                headersCriteria/
+                    backup/
+                    EC/
+                    met/
+                    precip/
+                    SSN/
+                    SSS/
+            uploadETC/
+                .git/
+                    hooks/
+                    info/
+                    logs/
+                        refs/
+                            heads/
+                            remotes/
+                                origin/
+                    objects/
+                        info/
+                        pack/
+                    refs/
+                        heads/
+                        remotes/
+                            origin/
+                        tags/
+    old/
+    PowerShell/
+    Storage/
+    __pycache__/
+Software_firmware_etc/
+    Campbell Scientific/
+        Loggernet_4_5/
+            LoggerNet/
+            Manual/
+        Logger_OS/
+        Resource DVD/
+            Images/
+            Manuals/
+                English/
+                    Atmospheric Pressure Sensors/
+                    Automatic Weather Stations/
+                    Cameras/
+                    CO2 and Water Vapour Sensors/
+                    Communication and Networking/
+                    Conductivity Sensors/
+                    Data Storage/
+                    Dataloggers/
+                    Dissolved Oxygen Sensors/
+                    Eddy Covariance/
+                    Electric Field Detection Sensors/
+                    Enclosures, Solar Panels and Power Supplies/
+                    Fuel Moisture and Temperature Sensors/
+                    GPS Sensors/
+                    Measurement and Control Peripheral/
+                    Miscellaneous/
+                    Multiplexers and Expansion Units/
+                    Optical Sensors/
+                    Present Weather and Visibility Sensors/
+                    Programming/
+                    Rainfall, Rain Detection and Wetness Sensors/
+                    Relative Humidity Sensors/
+                    Road Weather Systems/
+                    SDM - Synchronous Device Modules/
+                    Serial Interface Peripherals/
+                    Snow Depth and Distance Sensors/
+                    Software Applications/
+                    Software Development Kits/
+                    Soil Moisture Sensors/
+                    Stands, Towers and Tripods/
+                    Sunshine and Radiation Sensors/
+                    Surface Wetness Sensors/
+                    Temperature and Relative Humidity Sensors/
+                    Terminal Input Modules/
+                    Time Domain Reflectrometry/
+                    Turbidity Sensors/
+                    Vibrating Wire Interfaces/
+                    Water Depth Sensors/
+                    Wind Speed and Direction Sensors/
+                French/
+                    Centrales de mesure/
+                    Coffrets/
+                        Alimentations/
+                    Les capteurs/
+                    Les interfaces/
+                    Miscellaneous/
+                    Modules de stockage de donnees/
+                    Tours et Trepieds/
+            Software/
+                English/
+                    Adobe Acrobat Reader - English - v9/
+                    Campbell Viewpoint - v2/
+                    Device Configuration Utility - English - v2.16/
+                    Mobile Data Assistant v4/
+                    PC200W Starter Software - English - v4.5/
+                    Present Weather Viewer for the PWS100 v2.6.1 (English, French and German)/
+                    Short Cut - English - v3.2.2/
+                French/
+                    Adobe Acrobat Reader - Francais - v9/
+    Data_processing_sofware/
+        hesseflux-master/
+            bin/
+            docs/
+                source/
+                    _templates/
+            example/
+            hesseflux/
+                const/
+                functions/
+                logtools/
+            tests/
+    Decagon_METER/
+    Delta-T/
+        Software and Manuals DVD/
+            Documents/
+                Discontinued/
+                DNI Calculator/
+                Soil specific calibration/
+                WS-GP1/
+                    D-034B-CA Wind Sensor/
+                    D-PYRPA-CA Light Sensor/
+                    RG2-WS-CA Rain Gauge/
+                    RHT3nl-CA RH & Air Temp Sensor/
+            index/
+                Images/
+            Software/
+                AP4Retrieve/
+                    program files/
+                        Delta-T/
+                            AP4 Retrieve 1.1/
+                DeltaLINK/
+                    GlobalAssemblyCache/
+                    program files/
+                        Delta-T/
+                            DeltaLINK 3.6/
+                                Document Library/
+                                    GP1 and DL6/
+                                    GP2/
+                                    WS-GP1/
+                                        D-034B-CA Wind Sensor/
+                                        D-PYRPA-CA Light Sensor/
+                                        RG2-WS-CA Rain Guage/
+                                        RHT3nl-CA RH & Air Temp Sensor/
+                                    WS-GP2/
+                                Samples/
+                                    GP1 and DL6 programs/
+                                    GP2 multi-function programs/
+                                Setup/
+                DTImpWiz/
+                    Common Files Folder/
+                        Delta-T/
+                ET2Demo/
+                    awset32/
+                GPRSConfig/
+                HemiViewEval/
+                HH2Read/
+                    program files/
+                        Delta-T/
+                            HH2Read 2.8/
+                                Dataset Import Wizard/
+                Ls2Win/
+                    Documents/
+                    GSMConfig/
+                    InstMSI/
+                    Redist/
+                        MS/
+                            System/
+                    Weather Station Sample/
+                SunRead/
+                    Documents/
+                    Redist/
+                        MS/
+                            System/
+                USB-RS232/
+                Video Tutorials/
+                    DeltaLINK/
+        SunData/
+            Documents/
+                BF3/
+                BF5/
+                Nomad/
+                Recon/
+            Index/
+            Software/
+                SunData/
+                    Common Files Folder/
+                        Delta-T/
+                            SunData/
+                    Document Library/
+                        BF3/
+                        BF5/
+                        Nomad/
+                        Recon/
+                    Setup/
+                SunRead/
+                    Documents/
+                    Redist/
+                        MS/
+                            System/
+    Example_logger_programs/
+        example_datalogger_windsonic_programs/
+        Subwater/
+    Gill/
+        Anemometer products/
+            Downloads/
+            Manuals/
+                WindDisplay TFT NMEA/
+            Software/
+    LICOR/
+        EC_firmware/
+    Serial2USB/
+    StarDot/
+    WinBackup/
+Vedhæftede filer/
