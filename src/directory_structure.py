@@ -1,4 +1,4 @@
-import configparsergit
+import configparser
 import os
 
 def load_config():
